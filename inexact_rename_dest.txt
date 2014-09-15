@@ -2,9 +2,9 @@ Maecenas dictum mi at quam dapibus eleifend at id est. Aenean a tellus id ipsum
 pulvinar suscipit eget eu augue. Duis sollicitudin diam arcu, id luctus sem
 pulvinar a. Pellentesque pellentesque dui eu diam interdum maximus. Vestibulum
 id imperdiet arcu. Curabitur quis dapibus dolor, id imperdiet massa. Phasellus
-eget sagittis odio, eget tincidunt neque. Lorem ipsum dolor sit amet,
+eget sagittis odio, eget tincidunt neque. LOREM IPSUM dolor sit amet,
 consectetur adipiscing elit. Donec sed ipsum placerat, ultricies velit sit
-amet, imperdiet tortor. Pellentesque volutpat luctus condimentum. Lorem ipsum
+amet, imperdiet tortor. Pellentesque volutpat luctus condimentum. LOREM IPSUM
 dolor sit amet, consectetur adipiscing elit. Donec viverra velit vel blandit
 ullamcorper. Suspendisse nec blandit felis. Integer tristique purus id ipsum
 commodo pulvinar. Duis in viverra elit. Quisque vel rhoncus mi bibendum tortor.
